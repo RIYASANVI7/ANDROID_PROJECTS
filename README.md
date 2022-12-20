@@ -1,4 +1,4 @@
-# ArgPlayer
+# SANGEET
 An android music player ui library
 
 Builds: [![](https://jitpack.io/v/mergehez/ArgPlayer.svg)](https://jitpack.io/#mergehez/ArgPlayer)
